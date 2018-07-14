@@ -1,4 +1,4 @@
-![html](html.png =128x128) ![css](css.png =128x128)
+![html](html.png) ![css](css.png)
 
 # HTML5 & CSS TEMPLATE
 
