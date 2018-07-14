@@ -1,0 +1,35 @@
+/* HTML5 CSS TEMPLATE (VALIDATES) 08.2018 */
+
+
+/* @import url(''); */
+
+@media only screen and (max-width: 768px) {
+    .mobile {
+        background-color: #ffffff;
+        background-image: none;
+        color: #000000;
+    }
+}
+
+html,
+body {
+    background-color: #ffffff;
+    background-image: none;
+    color: #000000;
+    width: 100%;
+}
+
+
+/*
+header {}
+.header {}
+nav {}
+.nav {}
+main {}
+.main {}
+.container {}
+section {}
+.section {}
+footer {}
+.footer {}
+*/
