@@ -1,4 +1,4 @@
-![html]('html.png') ![css]('css.png')
+![html](html.png) ![css](css.png)
 
 # HTML5 & CSS TEMPLATE
 
